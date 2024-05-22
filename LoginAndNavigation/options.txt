@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Loaruner_Scripts\WEBTOURSS\LoginAndNavigation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ed:\loaruner_scripts\webtourss\loginandnavigation\\logfile.log
+d:\loaruner_scripts\webtourss\loginandnavigation\\combined_LoginAndNavigation.c
+d:\loaruner_scripts\webtourss\loginandnavigation\\pre_cci.c
